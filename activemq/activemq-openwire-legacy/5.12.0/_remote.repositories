@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun May 12 15:24:32 IST 2019
+activemq-openwire-legacy-5.12.0.pom>nexus=
+activemq-openwire-legacy-5.12.0.jar>nexus=
+activemq-openwire-legacy-5.12.0-sources.jar>nexus=
+activemq-openwire-legacy-5.12.0.jar>phome.public.http=
+activemq-openwire-legacy-5.12.0.pom>phome.public.http=

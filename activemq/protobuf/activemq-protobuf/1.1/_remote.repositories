@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun May 12 15:24:32 IST 2019
+activemq-protobuf-1.1.pom>nexus=
+activemq-protobuf-1.1.jar>nexus=
+activemq-protobuf-1.1.jar>phome.public.http=
+activemq-protobuf-1.1.pom>phome.public.http=
+activemq-protobuf-1.1-sources.jar>nexus=
